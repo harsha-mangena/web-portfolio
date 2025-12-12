@@ -1,0 +1,193 @@
+{
+  "personal": {
+    "name": "Sai Ranga M",
+    "title": "Software Engineer | AI/ML Specialist",
+    "location": "Texas, USA",
+    "phone": "+1 (864) 407-1871",
+    "email": "sairanga.mangina@gmail.com",
+    "linkedin": "https://linkedin.com/in/mvsrsh",
+    "github": "https://github.com/harsha-mangena",
+    "hashnode": "harshamangena",
+    "tagline": "Building production-grade AI systems that solve real-world problems at scale"
+  },
+  "summary": {
+    "short": "Full-stack backend and ML infrastructure engineer with 4+ years architecting production-grade AI systems, distributed data pipelines, and LLM deployment infrastructure at scale.",
+    "extended": "Expert in designing real-time systems that balance performance optimization with ML model serving—orchestrating microservices, vector databases, and streaming architectures to unlock AI capabilities in mission-critical financial and enterprise environments. Proven track record of reducing latency by 40%, improving model accuracy by 19%, and processing millions of transactions daily."
+  },
+  "experience": [
+    {
+      "company": "HyperWater",
+      "location": "USA",
+      "role": "Software Engineer - AI",
+      "type": "Part-Time",
+      "duration": "Sep 2025 – Present",
+      "highlights": [
+        "Architected graph database platform using Neo4j and VueJS with ColPali and LangChain vector embeddings for construction document relationships, achieving 80%+ query accuracy, sub-500ms response times, and 150+ documents/minute throughput",
+        "Developed YOLO and ColPali-based automated construction document parsing system, reducing manual review time by 70% and improving bid accuracy for construction projects",
+        "Deployed fine-tuned LLM models using LoRA and MLflow for construction-specific document understanding with prompt engineering optimization, improving extraction accuracy from 72% to 91% while reducing inference costs by 35%",
+        "Implemented real-time document analysis pipeline processing 150+ documents per minute with AWS infrastructure, supporting project bidding decisions worth $10M+ annually"
+      ],
+      "technologies": ["Python", "Neo4j", "VueJS", "LangChain", "ColPali", "YOLO", "LoRA", "MLflow", "AWS", "Computer Vision", "LLM Fine-tuning"]
+    },
+    {
+      "company": "BlackRock",
+      "location": "USA",
+      "role": "Software Engineer II",
+      "type": "Contract (Concluded)",
+      "duration": "June 2024 – Aug 2025",
+      "highlights": [
+        "Built distributed fraud detection system with FastAPI/Spring Boot processing 2M+ daily transactions, reducing detection latency by 40% via Kafka/Redis caching architecture",
+        "Enabled real-time trading decisions with sub-second market data pipeline using Kafka/Spark streaming architecture processing 500K+ events per second",
+        "Deployed XGBoost and LightGBM risk scoring models to production via Kubernetes, achieving 99.99% uptime serving 50K+ daily predictions, reducing false positive rate by 35% and improving risk assessment accuracy",
+        "Architected scalable microservices in Java/Spring Boot supporting portfolio analytics across billions of financial data points, reducing query latency by 40% (from 3.2s to 1.9s) and enabling real-time risk exposure monitoring for 500+ portfolio managers",
+        "Optimized PostgreSQL queries and Redis caching strategy, boosting database cluster throughput by 60% and reducing cache miss rate from 12% to 3%",
+        "Implemented end-to-end tracing with OpenTelemetry and Datadog, reducing Mean Time To Resolution (MTTR) by 65% from 45 to 15 minutes for production incidents affecting 10K+ users",
+        "Led performance optimization initiatives that saved $200K+ annually in infrastructure costs through efficient resource utilization and query optimization"
+      ],
+      "technologies": ["Java", "Spring Boot", "FastAPI", "Kafka", "Spark", "Redis", "PostgreSQL", "Kubernetes", "XGBoost", "LightGBM", "OpenTelemetry", "Datadog", "Microservices"]
+    },
+    {
+      "company": "UrbanPiper",
+      "location": "India",
+      "role": "Software Development Engineer",
+      "type": "Full-Time",
+      "duration": "Aug 2022 – Aug 2023",
+      "highlights": [
+        "Expanded platform reach to 500+ QSR (Quick Service Restaurant) clients by building Django REST APIs for inventory and menu synchronization across multiple delivery platforms",
+        "Architected internal QA automation platform using Spring Boot with RabbitMQ webhook integration, achieving 91% test reliability and reducing manual testing efforts by 30%, saving $65K annually in operational costs",
+        "Administered CI/CD pipeline enhancements using Jenkins and Docker through automated Python and Bash scripts, reducing deployment time by 45%",
+        "Led migration from monolithic Django application to microservices architecture, cutting deployment time by 75% and enabling independent scaling of 12+ services",
+        "Built real-time analytics pipeline with Elasticsearch processing 100K+ daily orders, reducing P95 query latency from 3s to 1.2s and providing actionable insights to restaurant partners",
+        "Implemented distributed caching strategy with Redis, improving API response times by 60% for high-traffic endpoints serving 500K+ daily requests"
+      ],
+      "technologies": ["Python", "Django", "Spring Boot", "RabbitMQ", "Elasticsearch", "Redis", "Jenkins", "Docker", "REST APIs", "Microservices"]
+    },
+    {
+      "company": "DXC Technology",
+      "location": "India",
+      "role": "Associate Software Engineer",
+      "type": "Full-Time",
+      "duration": "Aug 2021 – July 2022",
+      "highlights": [
+        "Engineered Java EE REST APIs integrating Razorpay and PayPal payment gateways, processing 50K+ monthly transactions worth $2M+, reducing payment failures by 35% through circuit breaker patterns and retry mechanisms",
+        "Improved ETL pipeline throughput by 12% for 2M+ daily records using Java/SQL Server optimization, achieving 99.5% data quality SLA and $50K annual savings through query performance tuning",
+        "Developed comprehensive API documentation using Swagger/OpenAPI specifications and deployment runbooks, reducing new developer onboarding time by 60% across 25-person distributed engineering team",
+        "Collaborated with cross-functional teams across India, US, and Europe using Agile/Scrum methodologies, delivering 15+ software modules on schedule with 95% sprint completion rate"
+      ],
+      "technologies": ["Java", "Java EE", "REST APIs", "SQL Server", "Swagger/OpenAPI", "Payment Gateway Integration", "ETL", "Agile/Scrum"]
+    },
+    {
+      "company": "NCC Ltd",
+      "location": "India",
+      "role": "Software Engineer - Intern",
+      "type": "Internship",
+      "duration": "June 2020 – Feb 2021",
+      "highlights": [
+        "Integrated SAP ECC (MM/SD modules) with Java REST services using Cloud SDK and IDoc protocols for real-time data synchronization across enterprise systems",
+        "Delivered SQL-based KPI dashboards and lightweight ABAP/BAPI enhancements for improved business visibility, reducing manual reporting time by 40%"
+      ],
+      "technologies": ["Java", "SAP ECC", "REST APIs", "SQL", "ABAP", "Cloud SDK", "IDoc"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science in Computer Science",
+      "institution": "Clemson University",
+      "location": "South Carolina, USA",
+      "graduation": "December 2024",
+      "gpa": null,
+      "activities": ["Graduate Student Teaching Assistant", "Operations"]
+    },
+    {
+      "degree": "Bachelor of Engineering in Computer Science and Engineering",
+      "institution": "Aditya University",
+      "location": "India",
+      "graduation": "August 2021",
+      "gpa": null,
+      "activities": ["T-Hub Intern", "IEEE Representative"]
+    }
+  ],
+  "skills": {
+    "languages": ["Python", "Java", "JavaScript", "SQL", "Bash"],
+    "frameworks": ["Spring Boot", "FastAPI", "Flask", "Django", "REST/gRPC", "React.js", "Node.js", "Microservices"],
+    "aiml": ["NLP", "Computer Vision", "PyTorch", "TensorFlow", "Keras", "Scikit-Learn", "XGBoost", "LightGBM", "LangChain", "LangGraph", "Hugging Face", "OpenCV", "Large Language Models (LLM)", "Generative AI", "Model Fine-tuning", "LoRA", "RAG", "Multi-Agent Systems"],
+    "cloud": ["AWS (EC2, S3, Lambda, SageMaker, RDS, CloudWatch)", "GCP", "Docker", "Kubernetes", "Jenkins", "Apache Kafka", "RabbitMQ", "Apache Spark", "Apache Airflow"],
+    "databases": ["PostgreSQL", "MongoDB", "Redis", "MySQL", "Elasticsearch/Kibana", "Vector Databases (Pinecone, Weaviate)", "Neo4j"],
+    "tools": ["Git", "GitHub", "Terraform", "JUnit", "Mockito", "Pytest", "ETL Pipelines", "MLflow", "Weights & Biases", "OpenTelemetry", "Datadog", "LangSmith", "TorchServe", "ONNX"],
+    "security": ["OAuth2", "RBAC", "SOC 2", "PCI-DSS"]
+  },
+  "projects": [
+    {
+      "name": "SwarmOS: Production-Grade Multi-Agent Orchestration Platform",
+      "description": "Enterprise-ready multi-agent control plane implementing competitive-collaborative debate mechanisms for AI agent coordination with distributed orchestration, memory persistence, and human-in-the-loop governance",
+      "technologies": ["Python", "LangGraph", "FastAPI", "Pinecone", "LangSmith", "Docker", "Kubernetes", "LLMGuard"],
+      "link": "https://github.com/harsha-mangena/swarm-os",
+      "highlights": [
+        "Architected distributed multi-agent system supporting 10+ specialized agents operating concurrently with <500ms task handoff latency",
+        "Implemented dual-memory architecture (conversation + vector DB) enabling persistent agent context and 95%+ task completion accuracy",
+        "Built enterprise-grade observability with LangSmith tracing, reducing agent debugging time by 60%",
+        "Deployed with Docker/K8s, automated CI/CD, and human-in-the-loop governance for compliance workflows",
+        "Integrated multi-model routing (Claude for analysis, GPT-4 for creative tasks) with 99%+ error recovery rate"
+      ]
+    },
+    {
+      "name": "DocIntel: Production Document Understanding with Optimized ColPali",
+      "description": "Real-time document intelligence system with fine-tuned ColPali vision-language model, quantization pipeline, and Neo4j knowledge graph integration for enterprise-scale document processing",
+      "technologies": ["Python", "PyTorch", "ColPali", "ONNX", "Neo4j", "TorchServe", "AWS SageMaker", "MLflow", "Evidently AI"],
+      "link": "https://github.com/harsha-mangena/doc-intel",
+      "highlights": [
+        "Fine-tuned ColPali on financial documents achieving 94% extraction F1 score (vs 87% baseline)",
+        "Implemented INT8 quantization pipeline reducing model size 4x while maintaining 98% accuracy, cutting inference costs by 75%",
+        "Built Neo4j knowledge graph integration for document relationship mapping, enabling complex multi-document queries",
+        "Deployed on AWS SageMaker with autoscaling, processing 1000+ pages/hour at <$0.01/document cost",
+        "Integrated MLflow model registry with automated A/B testing and drift monitoring pipeline"
+      ]
+    },
+    {
+      "name": "AdaptiveRAG: Production RAG System with MCP and GraphRAG",
+      "description": "Advanced Retrieval-Augmented Generation system implementing Anthropic's Model Context Protocol with hybrid retrieval (vector + graph + BM25), adaptive chunking, and systematic evaluation using RAGAS framework",
+      "technologies": ["Python", "LangChain", "Weaviate", "Neo4j", "MCP", "RAGAS", "FastAPI", "LangSmith"],
+      "link": "https://github.com/harsha-mangena/adaptive-rag",
+      "highlights": [
+        "Implemented Model Context Protocol (MCP) for standardized LLM-tool integration, enabling seamless multi-tool agent workflows",
+        "Built hybrid retrieval combining vector search + BM25 + graph traversal, achieving 0.87 NDCG@10 (vs 0.72 baseline vector-only)",
+        "Created adaptive chunking pipeline improving answer relevance by 35% on domain-specific queries",
+        "Deployed with query complexity routing, reducing average cost per query by 60% while maintaining quality",
+        "Integrated RAGAS evaluation suite with automated regression testing for systematic quality measurement"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "title": "Adaptive Boosting with Dynamic Weight Adjustment",
+      "type": "Research Paper",
+      "platform": "arXiv",
+      "link": "https://arxiv.org/abs/2406.00524",
+      "id": "arXiv:2406.00524",
+      "description": "Novel approach to adaptive boosting algorithms with dynamic weight adjustment mechanisms for improved model performance"
+    },
+    {
+      "title": "Automated Data Preparation with Machine Learning for Enhanced Predictive Analytics",
+      "type": "Research Paper",
+      "platform": "arXiv",
+      "link": "https://arxiv.org/abs/2407.00412",
+      "id": "arXiv:2407.00412",
+      "description": "Framework for automating data preparation pipelines using machine learning techniques to enhance predictive model accuracy"
+    }
+  ],
+  "certifications": [
+    "AWS Certified Cloud Practitioner",
+    "Microsoft Certified: Database Administrator",
+    "AWS Machine Learning Fundamentals",
+    "Google Cloud Platform: AI Foundations"
+  ],
+  "achievements": [
+    "Reduced production latency by 40% across multiple projects, processing 2M+ daily transactions",
+    "Improved ML model accuracy from 72% to 91% through fine-tuning and optimization",
+    "Architected systems handling billions of financial data points with 99.99% uptime",
+    "Saved $300K+ annually through performance optimizations and cost reductions",
+    "Led migration of monolithic applications to microservices, reducing deployment time by 75%",
+    "Built production-grade multi-agent systems with 95%+ task completion accuracy",
+    "Deployed optimized ML models achieving 4x size reduction and 75% cost savings"
+  ]
+}
