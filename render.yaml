@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: portfolio
+    runtime: static
+    buildCommand: npm install && npm run build
+    staticPublishPath: out
+    envVars:
+      - key: NODE_VERSION
+        value: "20"
+    headers:
+      - path: /*
+        name: X-Frame-Options
+        value: DENY
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html

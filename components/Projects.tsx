@@ -16,7 +16,7 @@ export default function Projects() {
                     className="mb-16"
                 >
                     <h2 className="text-3xl md:text-4xl font-display font-bold mb-4">
-                        Featured <span className="gradient-text">Projects</span>
+                        Selected <span className="gradient-text">Work</span>
                     </h2>
                     <div className="w-16 h-1 bg-black mb-8" />
                     <p className="max-w-2xl text-secondary text-lg">

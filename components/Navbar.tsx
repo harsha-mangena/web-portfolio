@@ -12,7 +12,7 @@ export default function Navbar() {
         { name: 'About', href: '/about' },
         { name: 'Experience', href: '/experience' },
         { name: 'Skills', href: '/skills' },
-        { name: 'Projects', href: '/projects' },
+        { name: 'Work', href: '/work' },
         { name: 'Pubs', href: '/publications' }, // Shortened for space
         { name: 'Blog', href: '/blog' },
         { name: 'Contact', href: '/contact' }
@@ -35,8 +35,8 @@ export default function Navbar() {
                                 <Link
                                     href={link.href}
                                     className={`px-3 py-1.5 rounded-full transition-colors ${isActive
-                                            ? "bg-black text-white"
-                                            : "text-gray-600 hover:text-black hover:bg-gray-100"
+                                        ? "bg-black text-white"
+                                        : "text-gray-600 hover:text-black hover:bg-gray-100"
                                         }`}
                                 >
                                     {link.name}

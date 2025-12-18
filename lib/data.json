@@ -19,7 +19,7 @@
       "company": "HyperWater",
       "location": "USA",
       "role": "Software Engineer - AI",
-      "type": "Part-Time",
+      "type": "Full-Time",
       "duration": "Sep 2025 – Present",
       "highlights": [
         "Architected graph database platform using Neo4j and VueJS with ColPali and LangChain vector embeddings for construction document relationships, achieving 80%+ query accuracy, sub-500ms response times, and 150+ documents/minute throughput",
@@ -27,7 +27,19 @@
         "Deployed fine-tuned LLM models using LoRA and MLflow for construction-specific document understanding with prompt engineering optimization, improving extraction accuracy from 72% to 91% while reducing inference costs by 35%",
         "Implemented real-time document analysis pipeline processing 150+ documents per minute with AWS infrastructure, supporting project bidding decisions worth $10M+ annually"
       ],
-      "technologies": ["Python", "Neo4j", "VueJS", "LangChain", "ColPali", "YOLO", "LoRA", "MLflow", "AWS", "Computer Vision", "LLM Fine-tuning"]
+      "technologies": [
+        "Python",
+        "Neo4j",
+        "VueJS",
+        "LangChain",
+        "ColPali",
+        "YOLO",
+        "LoRA",
+        "MLflow",
+        "AWS",
+        "Computer Vision",
+        "LLM Fine-tuning"
+      ]
     },
     {
       "company": "BlackRock",
@@ -44,7 +56,21 @@
         "Implemented end-to-end tracing with OpenTelemetry and Datadog, reducing Mean Time To Resolution (MTTR) by 65% from 45 to 15 minutes for production incidents affecting 10K+ users",
         "Led performance optimization initiatives that saved $200K+ annually in infrastructure costs through efficient resource utilization and query optimization"
       ],
-      "technologies": ["Java", "Spring Boot", "FastAPI", "Kafka", "Spark", "Redis", "PostgreSQL", "Kubernetes", "XGBoost", "LightGBM", "OpenTelemetry", "Datadog", "Microservices"]
+      "technologies": [
+        "Java",
+        "Spring Boot",
+        "FastAPI",
+        "Kafka",
+        "Spark",
+        "Redis",
+        "PostgreSQL",
+        "Kubernetes",
+        "XGBoost",
+        "LightGBM",
+        "OpenTelemetry",
+        "Datadog",
+        "Microservices"
+      ]
     },
     {
       "company": "UrbanPiper",
@@ -60,7 +86,18 @@
         "Built real-time analytics pipeline with Elasticsearch processing 100K+ daily orders, reducing P95 query latency from 3s to 1.2s and providing actionable insights to restaurant partners",
         "Implemented distributed caching strategy with Redis, improving API response times by 60% for high-traffic endpoints serving 500K+ daily requests"
       ],
-      "technologies": ["Python", "Django", "Spring Boot", "RabbitMQ", "Elasticsearch", "Redis", "Jenkins", "Docker", "REST APIs", "Microservices"]
+      "technologies": [
+        "Python",
+        "Django",
+        "Spring Boot",
+        "RabbitMQ",
+        "Elasticsearch",
+        "Redis",
+        "Jenkins",
+        "Docker",
+        "REST APIs",
+        "Microservices"
+      ]
     },
     {
       "company": "DXC Technology",
@@ -74,7 +111,12 @@
         "Developed comprehensive API documentation using Swagger/OpenAPI specifications and deployment runbooks, reducing new developer onboarding time by 60% across 25-person distributed engineering team",
         "Collaborated with cross-functional teams across India, US, and Europe using Agile/Scrum methodologies, delivering 15+ software modules on schedule with 95% sprint completion rate"
       ],
-      "technologies": ["Java", "Java EE", "REST APIs", "SQL Server", "Swagger/OpenAPI", "Payment Gateway Integration", "ETL", "Agile/Scrum"]
+      "technologies": [
+        "Java",
+        "Java EE",
+        "REST APIs",
+        "SQL Server"
+      ]
     },
     {
       "company": "NCC Ltd",
@@ -86,7 +128,15 @@
         "Integrated SAP ECC (MM/SD modules) with Java REST services using Cloud SDK and IDoc protocols for real-time data synchronization across enterprise systems",
         "Delivered SQL-based KPI dashboards and lightweight ABAP/BAPI enhancements for improved business visibility, reducing manual reporting time by 40%"
       ],
-      "technologies": ["Java", "SAP ECC", "REST APIs", "SQL", "ABAP", "Cloud SDK", "IDoc"]
+      "technologies": [
+        "Java",
+        "SAP ECC",
+        "REST APIs",
+        "SQL",
+        "ABAP",
+        "Cloud SDK",
+        "IDoc"
+      ]
     }
   ],
   "education": [
@@ -96,7 +146,10 @@
       "location": "South Carolina, USA",
       "graduation": "December 2024",
       "gpa": null,
-      "activities": ["Graduate Student Teaching Assistant", "Operations"]
+      "activities": [
+        "Graduate Student Teaching Assistant",
+        "Operations"
+      ]
     },
     {
       "degree": "Bachelor of Engineering in Computer Science and Engineering",
@@ -104,23 +157,107 @@
       "location": "India",
       "graduation": "August 2021",
       "gpa": null,
-      "activities": ["T-Hub Intern", "IEEE Representative"]
+      "activities": [
+        "T-Hub Intern",
+        "IEEE Representative"
+      ]
     }
   ],
   "skills": {
-    "languages": ["Python", "Java", "JavaScript", "SQL", "Bash"],
-    "frameworks": ["Spring Boot", "FastAPI", "Flask", "Django", "REST/gRPC", "React.js", "Node.js", "Microservices"],
-    "aiml": ["NLP", "Computer Vision", "PyTorch", "TensorFlow", "Keras", "Scikit-Learn", "XGBoost", "LightGBM", "LangChain", "LangGraph", "Hugging Face", "OpenCV", "Large Language Models (LLM)", "Generative AI", "Model Fine-tuning", "LoRA", "RAG", "Multi-Agent Systems"],
-    "cloud": ["AWS (EC2, S3, Lambda, SageMaker, RDS, CloudWatch)", "GCP", "Docker", "Kubernetes", "Jenkins", "Apache Kafka", "RabbitMQ", "Apache Spark", "Apache Airflow"],
-    "databases": ["PostgreSQL", "MongoDB", "Redis", "MySQL", "Elasticsearch/Kibana", "Vector Databases (Pinecone, Weaviate)", "Neo4j"],
-    "tools": ["Git", "GitHub", "Terraform", "JUnit", "Mockito", "Pytest", "ETL Pipelines", "MLflow", "Weights & Biases", "OpenTelemetry", "Datadog", "LangSmith", "TorchServe", "ONNX"],
-    "security": ["OAuth2", "RBAC", "SOC 2", "PCI-DSS"]
+    "languages": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "SQL",
+      "Bash"
+    ],
+    "frameworks": [
+      "Spring Boot",
+      "FastAPI",
+      "Flask",
+      "Django",
+      "REST/gRPC",
+      "React.js",
+      "Node.js",
+      "Microservices"
+    ],
+    "aiml": [
+      "NLP",
+      "Computer Vision",
+      "PyTorch",
+      "TensorFlow",
+      "Keras",
+      "Scikit-Learn",
+      "XGBoost",
+      "LightGBM",
+      "LangChain",
+      "LangGraph",
+      "Hugging Face",
+      "OpenCV",
+      "Large Language Models (LLM)",
+      "Generative AI",
+      "Model Fine-tuning",
+      "LoRA",
+      "RAG",
+      "Multi-Agent Systems"
+    ],
+    "cloud": [
+      "AWS (EC2, S3, Lambda, SageMaker, RDS, CloudWatch)",
+      "GCP",
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "Apache Kafka",
+      "RabbitMQ",
+      "Apache Spark",
+      "Apache Airflow"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "MySQL",
+      "Elasticsearch/Kibana",
+      "Vector Databases (Pinecone, Weaviate)",
+      "Neo4j"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "Terraform",
+      "JUnit",
+      "Mockito",
+      "Pytest",
+      "ETL Pipelines",
+      "MLflow",
+      "Weights & Biases",
+      "OpenTelemetry",
+      "Datadog",
+      "LangSmith",
+      "TorchServe",
+      "ONNX"
+    ],
+    "security": [
+      "OAuth2",
+      "RBAC",
+      "SOC 2",
+      "PCI-DSS"
+    ]
   },
   "projects": [
     {
       "name": "SwarmOS: Production-Grade Multi-Agent Orchestration Platform",
       "description": "Enterprise-ready multi-agent control plane implementing competitive-collaborative debate mechanisms for AI agent coordination with distributed orchestration, memory persistence, and human-in-the-loop governance",
-      "technologies": ["Python", "LangGraph", "FastAPI", "Pinecone", "LangSmith", "Docker", "Kubernetes", "LLMGuard"],
+      "technologies": [
+        "Python",
+        "LangGraph",
+        "FastAPI",
+        "Pinecone",
+        "LangSmith",
+        "Docker",
+        "Kubernetes",
+        "LLMGuard"
+      ],
       "link": "https://github.com/harsha-mangena/swarm-os",
       "highlights": [
         "Architected distributed multi-agent system supporting 10+ specialized agents operating concurrently with <500ms task handoff latency",
@@ -133,7 +270,17 @@
     {
       "name": "DocIntel: Production Document Understanding with Optimized ColPali",
       "description": "Real-time document intelligence system with fine-tuned ColPali vision-language model, quantization pipeline, and Neo4j knowledge graph integration for enterprise-scale document processing",
-      "technologies": ["Python", "PyTorch", "ColPali", "ONNX", "Neo4j", "TorchServe", "AWS SageMaker", "MLflow", "Evidently AI"],
+      "technologies": [
+        "Python",
+        "PyTorch",
+        "ColPali",
+        "ONNX",
+        "Neo4j",
+        "TorchServe",
+        "AWS SageMaker",
+        "MLflow",
+        "Evidently AI"
+      ],
       "link": "https://github.com/harsha-mangena/doc-intel",
       "highlights": [
         "Fine-tuned ColPali on financial documents achieving 94% extraction F1 score (vs 87% baseline)",
@@ -146,7 +293,16 @@
     {
       "name": "AdaptiveRAG: Production RAG System with MCP and GraphRAG",
       "description": "Advanced Retrieval-Augmented Generation system implementing Anthropic's Model Context Protocol with hybrid retrieval (vector + graph + BM25), adaptive chunking, and systematic evaluation using RAGAS framework",
-      "technologies": ["Python", "LangChain", "Weaviate", "Neo4j", "MCP", "RAGAS", "FastAPI", "LangSmith"],
+      "technologies": [
+        "Python",
+        "LangChain",
+        "Weaviate",
+        "Neo4j",
+        "MCP",
+        "RAGAS",
+        "FastAPI",
+        "LangSmith"
+      ],
       "link": "https://github.com/harsha-mangena/adaptive-rag",
       "highlights": [
         "Implemented Model Context Protocol (MCP) for standardized LLM-tool integration, enabling seamless multi-tool agent workflows",
@@ -154,6 +310,39 @@
         "Created adaptive chunking pipeline improving answer relevance by 35% on domain-specific queries",
         "Deployed with query complexity routing, reducing average cost per query by 60% while maintaining quality",
         "Integrated RAGAS evaluation suite with automated regression testing for systematic quality measurement"
+      ]
+    },
+    {
+      "name": "Open Source Contributions",
+      "description": "Contributor to backend systems and infrastructure for various open source foundations.",
+      "technologies": [
+        "Redis",
+        "Kubernetes",
+        "Nginx",
+        "Spring RTS",
+        "API Design"
+      ],
+      "link": "https://github.com/harsha-mangena",
+      "highlights": [
+        "Implemented Data validation, Redis caching and pagination mechanisms in Bikespace API, delivering 1/3 reduction in fallbacks",
+        "Standardized inconsistent module ID conventions in Spring RTS platform, enhancing cross-platform system compatibility",
+        "Devised Nginx Kubernetes Ingress codebase by removing deprecated flags and streamlining configuration",
+        "Resolved file size representation by implementing binary-based calculations(log2), ensuring accurate storage measurements",
+        "Composed real-time data warehouse analytics through access counter incrementing, optimizing access pattern tracking"
+      ]
+    },
+    {
+      "name": "Graduate Student Operations",
+      "description": "Managed technical operations and student support for 15+ academic spaces at Clemson University.",
+      "technologies": [
+        "IT Support",
+        "System Management",
+        "Operations"
+      ],
+      "link": "#",
+      "highlights": [
+        "Provided technical support and IT mentoring across 15+ academic spaces, facilitating student learning and conferences",
+        "Assisted in streamlining operations across campus technical spaces through system management and maintenance workflows"
       ]
     }
   ],
